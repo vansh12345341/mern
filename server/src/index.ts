@@ -11,7 +11,7 @@ import { getDeckController } from "./controllers/getDeckController";
 import { createCardForDeckController } from "./controllers/createCardForDeckController";
 import { deleteCardOnDeckController } from "./controllers/deleteCardOnDeckController";
 
-const PORT = 5000;
+const PORT = 5001;
 
 const app = express();
 
